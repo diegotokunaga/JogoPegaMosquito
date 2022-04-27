@@ -1,2 +1,4 @@
-# JogoPegaMosquito
-Um jogo simples utilizando HTML/CSS/JavaScript. Baseado em um curso realizado
+# PrimeiroProjeto
+Primeiro projeto pega mosquito
+
+Um jogo criado a partir de um curso, usando HTML, CSS3 e JavaScript
